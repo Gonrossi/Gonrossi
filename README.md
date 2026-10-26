@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Gonzalo Jesús Rossi 👋
 
-<!--
-**Gonrossi/Gonrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Financial Control Analyst** in the healthcare sector (Córdoba, Argentina) and **Data Science** student. I specialize in Business Intelligence: transforming raw data into structured models and interactive dashboards that drive strategic decision-making.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Business Intelligence:** Power BI | Power Query | DAX
+- **Data Analysis & Scripting:** SQL | Python (Pandas)
+- **Spreadsheets:** Advanced Excel
+
+## 📊 Projects
+
+- 📈 [**Debt by Category Dashboard**](https://github.com/TU-USUARIO/tablero-deuda-powerbi) — *Power BI*
+- 🔍 **Financial Control SQL Queries** — *Coming soon*
+- 🏛️ **Public Procurement with Open Data** — *Coming soon*
+- ⚙️ **Automated Debt Reporting** — *Python (Coming soon)*
+
+## 📫 Let's Connect
+
+- 💼 [**LinkedIn Profile**](https://www.linkedin.com/in/gonzalo-jes%C3%BAs-rossi/)
